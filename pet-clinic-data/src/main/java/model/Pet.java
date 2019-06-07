@@ -1,4 +1,4 @@
-package croexe.spingframework.springpetclinic.model;
+package model;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package croexe.spingframework.springpetclinic.model;
+package model;
 
 public class Person {
 
