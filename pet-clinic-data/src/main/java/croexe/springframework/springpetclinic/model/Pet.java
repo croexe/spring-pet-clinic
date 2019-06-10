@@ -1,4 +1,4 @@
-package model;
+package croexe.springframework.springpetclinic.model;
 
 import java.time.LocalDate;
 
