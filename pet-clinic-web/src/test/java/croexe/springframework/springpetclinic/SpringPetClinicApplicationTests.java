@@ -1,4 +1,4 @@
-package springpetclinic;
+package croexe.springframework.springpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
